@@ -106,7 +106,7 @@
 }
 
 /* Mini banners */
-.slide-up {
+/* .slide-up {
   opacity: 0;
   transform: translateY(100px);
   transition: opacity 0.3s ease-out, transform 1.5s ease-out;
@@ -124,7 +124,7 @@
   padding: 2em .3em;
   border-radius: 0;
   margin-bottom: 1em;
-}
+} */
 
 #mini-banners i {
   font-size: 4em;
@@ -143,7 +143,7 @@
 }
 
 /* Destaques */
-.slide-up-2 {
+/* .slide-up-2 {
   opacity: 0;
   transform: translateY(100px);
   transition: opacity 1s ease-out, transform 1s ease-out;
@@ -161,7 +161,7 @@
 .show-from-left {
   opacity: 1;
   transform: translateX(0);
-}
+} */
 
 #featured-contained{
   margin-bottom: 4em;
