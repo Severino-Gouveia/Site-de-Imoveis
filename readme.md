@@ -12,6 +12,6 @@ Site desenvolvido com Bootstrap 5
 
 ## Resultado 
 
-Novo Link: https://dazzling-liskov-a5336a.netlify.app/
+Novo Link: (https://severino-gouveia.github.io/Site-de-Imoveis/)
 
 <img src="./img/resultado.png" style="width: 50%"/>
