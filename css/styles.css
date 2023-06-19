@@ -1,6 +1,8 @@
 * {
   font-family: 'Lato', sans-serif;
 }
+
+
 section{
   scroll-margin-top: 7rem;
 }
@@ -225,7 +227,7 @@ section{
 #info-container, #info-content{
   margin-bottom: 4em;
   padding: 3em 1em;
-  margin-top: 10em;
+  
 }
 #info-numbers{
   margin: 1.5em 0;
@@ -338,6 +340,11 @@ section{
 }
 
 .project-image {
-  height: 600px; /* Defina a altura desejada para as imagens */
+  height: 500px; /* Defina a altura desejada para as imagens */
   
 }
+ 
+  .card-imagem img{
+    height: 300px;
+    object-fit: cover;
+  }
